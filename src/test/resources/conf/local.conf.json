@@ -1,11 +1,11 @@
 {
   "server": "hub-cloud.browserstack.com",
-  "user": "BROWSERSTACK_USERNAME",
-  "key": "BROWSERSTACK_ACCESS_KEY",
+  "user": "waseemshaikh2",
+  "key": "zqrcJG1PKY2PTcuCK84L",
 
   "capabilities": {
     "build": "jbehave-browserstack",
-    "name": "local_test",
+    "name": "localwala_test",
     "browserstack.debug": true,
     "browserstack.local": true
   },

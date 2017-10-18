@@ -1,15 +1,19 @@
 {
   "server": "hub-cloud.browserstack.com",
-  "user": "BROWSERSTACK_USERNAME",
-  "key": "BROWSERSTACK_ACCESS_KEY",
+  "user": "waseemshaikh2",
+  "key": "zqrcJG1PKY2PTcuCK84L",
 
   "capabilities": {
-    "build": "jbehave-browserstack",
-    "name": "single_test",
+    "build": "jbehave-browserstackWaseem",
+    "name": "Onlysingle_test",
     "browserstack.debug": true
   },
 
   "environments": [{
-    "browser": "chrome"
+  "os": "Windows",
+  "os_version": "7",
+  "browser": "IE",
+  "browser_version": "8.0",
+  "resolution": "1024x768"
   }]
 }
